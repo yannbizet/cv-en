@@ -24,7 +24,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         location = "Versailles 78000, France"
         date_birth = "01/10/1993"
-        driving_license = "Diving Licence B"
+        driving_license = "Driving Licence B"
 
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
@@ -118,7 +118,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "As a Site reliability Engineer - System administrator, my day to day tasks consists of managing an hosting infrastructure for production web applications. It includes operating the Linux servers, use modern Open Source solutions, build a highly automated and secured environment, work with developers in order to understand and answer their needs, set up the alerting."
+        text = "As a Site Reliability Engineer - System administrator, my day-to-day tasks consist of managing an hosting infrastructure for production web applications. It includes operating the Linux servers, using modern Open Source solutions, building a highly automated and secured environment, working with developers in order to understand and answer their needs, setting up the alerting."
 
     [params.experience]
         enable = true
@@ -163,7 +163,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Virtua S.A (Smile Suisse)"
         location = "Morges Switzerland"
         url = "https://virtua.ch"
-        details = "I was working in the the hosting department of this Swiss agency that had two datacenters and only OpenSources solutions. My role consisted of designing, deploying, operate and debug environment for in-house or customer coded applications (mostly PHP websites). I also had the chance to collaborate with the software engineer teams."
+        details = "I was working in the hosting department of this Swiss agency that had two datacenters and only Open Source solutions. My role consisted of designing, deploying, operating and debuging hosting environment for in-house or customer coded applications (mostly PHP websites). I also had the chance to collaborate with the software engineer teams."
         [[params.experience.list.items]]
         details = "Server administration : Triton SmartOS, Debian and OpenBSD"
         [[params.experience.list.items]]
@@ -183,7 +183,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "RAS Suisse"
         location = "Nyon Switzerland"
         url = "http://www.ras-itgroup.ch/"
-        details = "My day to day missions were mainly related to system administration of the hosting infrastructure on a Windows environment (Hosted on the company Datacenter)."
+        details = "My day-to-day missions were mainly related to system administration of the hosting infrastructure on a Windows environment (Hosted on the company Datacenter)."
         [[params.experience.list.items]]
         details = "Vmware VCenter Virtualisation"
         [[params.experience.list.items]]
@@ -205,5 +205,3 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Aviation (PPL Private Pilot License)"
         [[params.information.list.items]]
         details = "Music DJ"
-        [[params.information.list.items]]
-        details = "Hiking"
