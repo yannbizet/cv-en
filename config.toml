@@ -109,9 +109,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.languages.list]]
         name = "French"
         level = "Native"
+        url = "https://yannbizet.github.io/fr/"
         [[params.languages.list]]
         name = "English"
         level = "Professional"
+        url = "https://yannbizet.github.io"
+     
 
     [params.summary]
         enable = true
