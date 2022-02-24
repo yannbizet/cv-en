@@ -2,7 +2,7 @@
 
 baseURL = "https://yannbizet.github.io/"
 languageCode = "en"
-title = "Yann Bizet Resume"
+title = "CV Yann Bizet"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
