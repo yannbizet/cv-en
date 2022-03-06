@@ -83,10 +83,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Professional"
         [[params.skills.list.items]]
-        details = "Effective communication"
-        [[params.skills.list.items]]
-        details = "Customer satisfaction"
-        [[params.skills.list.items]]
         details = "Conscientious"
         [[params.skills.list.items]]
         details = "Sense of responsibility"
