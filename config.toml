@@ -125,9 +125,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Swatch Group Services"
         location = "Biel Switzerland"
         url = "https://www.swatchgroup.com/en/companies-brands/corporate/swatch-group-services"
-        details = "I'm Working in SRE team, which manages a web hosting infrastructure for the various company branch e-commerce and corporate websites on a Swiss Cloud provider. Our goal is to build highly stable, secured and automated environment. Working with different agencies that mostly codes PHP and Python applications, we are providing them a technical support and participate to the 24/7 on call service."
+        details = "I'm Working in SRE team, which manages a web hosting infrastructure for the various company branch e-commerce and corporate websites on a Swiss Cloud provider. Our goal is to build a highly stable, secured and automated environment. Working with different agencies that mostly codes PHP and Python applications, we are providing them a technical support that includes problem solving, automation of application deployment, CI CD improvement, upgrading docker images. I also participate to the 24/7 on call service."
+
         [[params.experience.list.items]]
         details = "Debug daily production issues"
+        [[params.experience.list.items]]
+        details = "Automation of application deployement"
         [[params.experience.list.items]]
         details = "Docker and Docker-compose on all infrastructure"
         [[params.experience.list.items]]
